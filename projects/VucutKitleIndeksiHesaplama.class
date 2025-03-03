@@ -2,7 +2,7 @@ package Patika_1_Practice.Practice_1;
 
 import java.util.Scanner;
 
-public class VücutKitleİndeksiHesaplama {
+public class VucutKitleIndeksiHesaplama {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
